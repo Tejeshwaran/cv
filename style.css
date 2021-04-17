@@ -1,0 +1,141 @@
+body{
+	margin: 0px;
+	text-align: center; 
+}
+h1{
+	font-size: 200%;
+	width: 10%;
+	line-height: 2;
+	margin: 0 auto 0 auto;
+	font-family: cursive;
+	color: #66BFBF;
+}
+h2{
+	color: #66BFBF;
+	font-family: 'montserrat',sans-serif;
+	font-weight: normal;
+	font-size: 2.5em;
+}
+h3{
+	color: #11999E;
+}
+
+span{
+	background-color: lime;
+}
+p{
+	font-family: sans-serif;
+    line-height: 2;
+}
+
+a{
+	margin: 10px 20px;
+}
+a:hover{
+	color: white;
+}
+
+.top-container{
+	background-color:
+	width: 100%;
+	height:1000px;
+	position: relative;
+
+}
+
+.middle-container{
+	margin: 100px auto;
+}
+
+.bottom-container{
+   background-color: cyan;
+   padding: 50px 0px 20px;
+   color: white; 
+}
+
+.intro{
+	width: 30%;
+	margin-left: 450px; 
+}
+
+.coding{
+	width: 30%;
+	float: right;
+}
+
+.pro{
+	text-decoration:underline;
+}
+.lower-cloud{
+	position: absolute;
+	left: 250px;
+	bottom: 700px
+
+}
+.upper-cloud{
+	position: absolute;
+	right: 250px;
+	top: 50px;
+}
+
+.para1{
+	font-size: 120%;
+}
+.header1{
+	text-align: center;
+}
+.footer-link{
+	color: #11999E;
+}
+.skill-row{
+	width: 50%;
+	margin: 100px auto 100px auto;
+	text-align: left;
+	line-height: 2;
+}
+
+.btn {
+  background: #3498db;
+  background-image: -webkit-linear-gradient(top, #3498db, #1a6391);
+  background-image: -moz-linear-gradient(top, #3498db, #1a6391);
+  background-image: -ms-linear-gradient(top, #3498db, #1a6391);
+  background-image: -o-linear-gradient(top, #3498db, #1a6391);
+  background-image: linear-gradient(to bottom, #3498db, #1a6391);
+  -webkit-border-radius: 28;
+  -moz-border-radius: 28;
+  border-radius: 28px;
+  text-shadow: 1px 1px 3px #666666;
+  font-family: Georgia;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #3cb0fd;
+  background-image: -webkit-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -moz-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -ms-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -o-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: linear-gradient(to bottom, #3cb0fd, #3498db);
+  text-decoration: none;
+}
+
+
+.profile{
+    text-align: center;
+    margin-bottom: 0px;
+}
+.photography{
+	width: 30%;
+	float: left;
+	margin-right: 30px;
+	margin-top: 10px;
+}
+
+.copyrights{
+	color: white;
+	font-size: 15px;
+}
+
